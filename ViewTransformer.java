@@ -3,7 +3,8 @@ package systems.ellora.curie.api.Externals.BottomSheet;
 import android.view.View;
 
 
-public interface ViewTransformer {
+public interface View{
+    
 
     /**
      * Called on every frame while animating the presented sheet. This method allows you to coordinate
