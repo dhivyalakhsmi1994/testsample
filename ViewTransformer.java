@@ -4,10 +4,5 @@ import android.view.View;
 
 
     
-    void transformView(float translation, float maxTranslation, float peekedTranslation, BottomSheetLayout parent, View view);
 
-
-
-    float getDimAlpha(float translation, float maxTranslation, float peekedTranslation, BottomSheetLayout parent, View view);
-// uesful all
 }
