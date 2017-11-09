@@ -31,5 +31,5 @@ public interface View{
      * @return The alpha to apply to the dim overlay.
      */
     float getDimAlpha(float translation, float maxTranslation, float peekedTranslation, BottomSheetLayout parent, View view);
-
+//Srivathsan changes
 }
